@@ -1,4 +1,5 @@
-#num = 20
-num = int(input("informe um valor inteiro: ")) #serve para a entrada de dados #int informa que int é um numero inteiro
-result = num * 2 
-print("o dobro do Número foi: ",result)  #para ver o resultado se usa o print
+# Calcula o dobro de um número fornecidos pelo usuário
+# num = 20
+num = int(input("Informe um Valor Inteiro: "))
+result = num * 2
+print ("O Dobro do Númmero foi: ",result)

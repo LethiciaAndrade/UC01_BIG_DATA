@@ -1,4 +1,4 @@
-# Referente ao exemplo 04
+# Referente ao exemplo 04,aula 01
 import datetime
 data_atual = datetime.date.today()
 ano_atual= data_atual.year

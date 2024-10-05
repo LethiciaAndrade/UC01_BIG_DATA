@@ -9,3 +9,4 @@ elif s == "F" or s == "f":
     print(f"O seu peso ideal é {f:.2f}")
 else:
     print("Verifique o Sexo Informado")
+    
